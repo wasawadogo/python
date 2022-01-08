@@ -1,3 +1,8 @@
+# Author: <Wendyam Sawadogo>
+# Creation Date: <11/07/2021
+# This is a simple program to work with files
+
+
 import os
 
 def files():
