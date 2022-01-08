@@ -1,3 +1,6 @@
+# Author: <Wendyam Sawadogo>
+# Creation Date: <11/16/2021
+#This is an app that gets input from the user to diplay weather data using API
 import requests
 
 
